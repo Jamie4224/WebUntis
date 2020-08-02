@@ -1,13 +1,13 @@
 {
-	"name": "webuntis",
-	"version": "1.12.0",
+	"name": "webuntisapi",
+	"version": "1.12.1",
 	"description": "WebUntis API",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/TheNoim/WebUntis.git"
+		"url": "https://github.com/Jamie4224/WebUntis.git"
 	},
-	"author": "Nils <nilsbergmann@noim.io>",
+	"author": "Jamie <jamietrip@hotmail.nl>",
 	"license": "MIT",
 	"private": false,
 	"types": "index.d",
